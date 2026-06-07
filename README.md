@@ -12,7 +12,7 @@ Data Scientist Junior
 
 </b></h1> 
 <!--  -->
-<img align="right" width=250px alt="Unicorn" src="https://camo.githubusercontent.com/cf34bff7a1524df8ccb4e2f0c70edda3702a88305f98b82bcf7903591cd6b706/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f54456e586b637348725034596564436868412f67697068792e676966"/>
+<img align="right" width=400px alt="Unicorn" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExd29wOWR1bHZ0aDg4MWpucXFhZWliZjcydXE2d29peXhsZ3BmZHJqaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/MBVRgrfOBPeH5zNWJU/giphy.gif"/>
 
 <img src="https://emojiterra.com/data/animated-emoji/1f305.gif" width="30px">&nbsp; ***About me***
 
