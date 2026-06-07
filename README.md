@@ -13,19 +13,21 @@ Data Scientist Junior
 </a>
 </h1>
 </div>
-<!--  -->
+
 <img src="https://emojiterra.com/data/animated-emoji/1f305.gif" width="30px">&nbsp; ***About me***
 
 Data scientist with an academic background in sociology and a specialization in statistical analysis and data modeling. Skilled in exploratory data analysis (EDA) and inferential statistics. Experience in processing, analyzing, and visualizing data using Python, SQL, Pandas, SciPy, and Seaborn, among others. Applies quantitative techniques to identify patterns, test hypotheses, and generate actionable insights. Proven ability to translate complex data into strategic recommendations that optimize decision-making, integrating social science approaches to understand user behavior, enhance segmentation, and drive evidence-based business strategies.
 
-## My Skills Include
-<h4>Languages</h4>
+<br>
+
+<h2> My Skills Include:</h2>
+<h3>Languages</h3>
 <span> 
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
   <img src="https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white">
 </span>
 
-<h4> Other Tools and Technologies </h4>
+<h3> Other Tools and Technologies </h3>
 <span>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
   <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white">
@@ -41,10 +43,22 @@ Data scientist with an academic background in sociology and a specialization in 
   <img src="https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white">  
 </span>
 
-## Education 
+<h2>Education</h2>
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=condorcoders&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=2B5BBD&icon_color=1124BB&text_color=A1A1A1&bg_color=0,000000,130F40" alt="my Github Stats"/>
+<img align="right" width="400px" alt="Unicorn"
+src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGU2dWN2MmE4ZTI3MXU2cHJ3ajFxejBidzlxMnJwMDM5aDBsYnA1ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JsEF4IkFC7gEM23aGE/giphy.gif"/>
 
+<p>
+  <strong>Bachelor in Sociology</strong><br>
+  Universidad Nacional Autónoma de México (UNAM)
+</p>
 
+<p>
+  <strong>Master in Sociology</strong><br>
+  El Colegio de México (COLMEX)
+</p>
 
-
+<p>
+  <strong>Data Science Certificate</strong><br>
+  TripleTen Bootcamp
+</p>
