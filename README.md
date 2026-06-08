@@ -16,7 +16,7 @@ Data Scientist Junior
 
 <img src="https://emojiterra.com/data/animated-emoji/1f305.gif" width="30px">&nbsp; ***About me***
 
-Data scientist with an academic background in sociology and a specialization in statistical analysis and data modeling. Skilled in exploratory data analysis (EDA) and inferential statistics. Experience in processing, analyzing, and visualizing data using Python, SQL, Pandas, SciPy, and Seaborn, among others. Applies quantitative techniques to identify patterns, test hypotheses, and generate actionable insights. Proven ability to translate complex data into strategic recommendations that optimize decision-making, integrating social science approaches to understand user behavior, enhance segmentation, and drive evidence-based business strategies.
+Data scientist with an academic background in sociology and a specialization in statistical analysis and data modeling. Skilled in exploratory data analysis (EDA) and inferential statistics. Experience in processing, analyzing, and visualizing data using Python, SQL, Pandas, SciPy, Scikit-learn, Seaborn, among others. Applies quantitative techniques to identify patterns, test hypotheses, and generate actionable insights. Proven ability to translate complex data into strategic recommendations that optimize decision-making, integrating social science approaches to understand user behavior, enhance segmentation, and drive evidence-based business strategies.
 
 <h2> My Skills Include:</h2>
 <h3>Languages</h3>
