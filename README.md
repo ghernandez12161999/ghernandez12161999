@@ -1,5 +1,5 @@
 <div align="center">
-<h1> <img width=300px alt="Unicorn" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWs1cWhnNmIzdnJvMzBjOTZkcG1qdmU2ajB3aDk1czV4ZXpjNHBzcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3otWpmQYD3RnfI62cw/giphy.gif"/>
+<h1> <img width=30% alt="Barco Gift" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWs1cWhnNmIzdnJvMzBjOTZkcG1qdmU2ajB3aDk1czV4ZXpjNHBzcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3otWpmQYD3RnfI62cw/giphy.gif"/>
 
 Gerardo Hernández Gómez:
 
