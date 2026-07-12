@@ -43,7 +43,7 @@ Data scientist with an academic background in sociology and a specialization in 
 
 <h2>Education</h2>
 
-<img align="right" width="400px" alt="Unicorn"
+<img align="right" width="40%" alt="Biblioteca Gift"
 src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGU2dWN2MmE4ZTI3MXU2cHJ3ajFxejBidzlxMnJwMDM5aDBsYnA1ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JsEF4IkFC7gEM23aGE/giphy.gif"/>
 
 <p>
